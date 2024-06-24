@@ -20,8 +20,6 @@ const fibonacci = (numero) =>{
     let a = 0;
     let b = 1;
     let c = 0;
-    
-    console.log(a + "\n" + b)
 
     contenedor.innerHTML = "<p>El numero 1 es: 0</p> "+
                                 "<p>El numero 2 es: 1</p>";
